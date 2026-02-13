@@ -1,0 +1,7 @@
+node_modules/
+.signer.json
+.env
+keys.json
+data/
+logs/
+package-lock.json
