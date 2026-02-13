@@ -1,7 +1,6 @@
 node_modules/
-.signer.json
 .env
+.signer.json
 keys.json
 data/
-logs/
-package-lock.json
+*.log
