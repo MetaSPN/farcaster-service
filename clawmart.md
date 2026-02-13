@@ -20,7 +20,7 @@ The full library + CLI + OpenClaw skill file.
 
 **You provide:** Your own Neynar API key + Farcaster signer
 
-→ [GitHub repo](https://github.com/your-org/farcaster-service)
+→ [GitHub repo](https://github.com/MetaSPN/farcaster-service)
 
 ---
 
@@ -68,7 +68,7 @@ Minimum friction. No swapping required.
 
 ```bash
 # Open source
-git clone https://github.com/your-org/farcaster-service
+git clone https://github.com/MetaSPN/farcaster-service
 cd farcaster-service && npm install
 
 # Managed tiers
